@@ -15,7 +15,7 @@ h2 {
 }
 
 p {
-    color: dimgray;    /* Color for all Paragrahp */
+    color: dimgray;    /* Color for all Paragraph */
 }
 
 section { /* For all Section */
@@ -58,7 +58,7 @@ section { /* For all Section */
 
 .link-button {  /* Also applicable for Biography Link */
     text-decoration: none;
-    background-image: linear-gradient(45deg, #EC5298, #EC4B75);
+    background-image: linear-gradient(45deg, #EC5298, #EC4B75); /* Using gradient to button */
     padding: 10px 35px;
     border-radius: 5px;
     color: white;   
@@ -128,7 +128,7 @@ blockquote {
 .message {
     height: 120px;
     width: 500px;
-    background-image: linear-gradient(45deg, #EC5298, #EC4B75);
+    background-image: linear-gradient(45deg, #EC5298, #EC4B75); /* Using gradient to Mail Box */
     color: white;
     margin: auto;
     padding-top: 10px;
